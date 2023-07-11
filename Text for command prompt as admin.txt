@@ -1,0 +1,2 @@
+cd <foldername>
+setup/configure configuration.xml
