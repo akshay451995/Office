@@ -1,2 +1,6 @@
 cd <foldername>
 setup/configure configuration.xml
+
+For you cant make this changes as the selection is locked: 
+
+C drive --> program files --> microsoft office --> office16 --> OSPPREARM (right click on this and run as admin 3 times)
